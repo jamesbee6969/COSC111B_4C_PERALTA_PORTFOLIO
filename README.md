@@ -4,20 +4,24 @@ This repository contains all laboratory activities and examinations completed fo
 
 ---
 
-## 📁 Repository Structure
+## 📁 Table of Contents
 
-```
-PERALTA_PORTFOLIO_COSC111B/
-├── Laboratory_1/
-├── Laboratory_2/
-├── Laboratory_3/
-├── Laboratory_4/
-├── Laboratory_5/
-├── Laboratory_6/
-├── Laboratory_7/
-├── LabExam_Midterms/
-└── LabExam_Finals/
-```
+- [General Requirements](#-general-requirements)
+  - [Software Requirements](#software-requirements)
+  - [Hardware Requirements](#hardware-requirements)
+  - [Installation](#installation)
+- [Laboratory Activities](#-laboratory-activities)
+  - [Laboratory 1: Basic LED Sequential Control](#laboratory-1-basic-led-sequential-control)
+  - [Laboratory 2: LED Control with PWM Brightness](#laboratory-2-led-control-with-pwm-brightness)
+  - [Laboratory 3: Fire Detection System](#laboratory-3-fire-detection-system)
+  - [Laboratory 4: Light Detection Alert with Serial Control](#laboratory-4-light-detection-alert-with-serial-control)
+  - [Laboratory 5: RGB LED Control via Serial Communication](#laboratory-5-rgb-led-control-via-serial-communication)
+  - [Laboratory 6: Bi-directional Serial Communication](#laboratory-6-bi-directional-serial-communication)
+  - [Laboratory 7: Web API Integration with FastAPI](#laboratory-7-web-api-integration-with-fastapi)
+- [Examinations](#-examinations)
+  - [Lab Exam - Midterms: Light Intensity Monitoring System](#lab-exam---midterms-light-intensity-monitoring-system)
+  - [Lab Exam - Finals: Button Press Detection with API Integration](#lab-exam---finals-button-press-detection-with-api-integration)
+- [Activity Summary](#-activity-summary)
 
 ---
 
